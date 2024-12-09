@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android Simple Views</string>
+    <string name="contentDescription"> This is my photo</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="done">Done</string>
+    <string name="viewWebsite">View Website</string>
+    <string name="androidDevelopment">Android Development</string>
+    <string name="uiDesign">Ui Design</string>
+    <string name="deepLearning">Deep Learning</string>
+    <string name="skills">Skills</string>
+    <string name="provinceCity">Province - City</string>
+    <string name="onToronto">ON - Toronto</string>
+    <string name="bcVancouver">BC - Vancouver</string>
+    <string name="qcMontreal">QC - Montreal</string>
+    <string name="saveInformation">Save Information</string>
+    <string name="editProfile_hint">Enter your Full Name</string>
+
+</resources>

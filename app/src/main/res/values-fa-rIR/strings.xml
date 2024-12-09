@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">آموزش ویو در اندروید</string>
+    <string name="contentDescription"> این عکس منه</string>
+    <string name="editProfile">ویرایش پروفایل</string>
+    <string name="done">تایید</string>
+    <string name="viewWebsite">مشاهده وب سایت</string>
+    <string name="androidDevelopment">توسعه اپلیکیشنهای اندروید</string>
+    <string name="uiDesign">ساخت رابط کاربری</string>
+    <string name="deepLearning">یادگیری عمیق</string>
+    <string name="skills">مهارتها</string>
+    <string name="provinceCity"> استان - شهر</string>
+    <string name="onToronto">انتاریو - تورنتو</string>
+    <string name="bcVancouver">بریتیش کلمبیا - ونکوور</string>
+    <string name="qcMontreal">کبک - منترال</string>
+    <string name="saveInformation">ذخیره اطلاعات</string>
+    <string name="editProfile_hint">نام و نام خانوادگی خود را وارد کنید</string>
+</resources>
